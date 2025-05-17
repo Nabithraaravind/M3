@@ -224,5 +224,6 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
 
 Thus, the program to replace all even elements with 'E' in one dimensional array was verified successfully.
 
-
+# Name: A.Nabithra
+# Register Number: 212224230172
 
